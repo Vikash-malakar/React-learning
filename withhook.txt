@@ -1,0 +1,5 @@
+useeffect (funcation,defe)
+1 useeffect (funcation,depe)
+2 useeffect (funcation,[])
+3 useeffect (funcation,[dep])
+
